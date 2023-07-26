@@ -28,8 +28,7 @@ Projeto para fazer uma api em java usando o framework Spring Boot. API simples c
 ## 📃 Referência
 
  - [Spring Boot 3 | Curso Completo 2023](https://youtu.be/wlYvA2b1BWI)
- 
-
+ - [Spring Boot 3 | Curso Completo 2023 - PDF](https://github.com/liryelbeloaguiar/API_products/blob/main/217e7b_4c35a924aec94ea09d37799f638f7dd1.pdf)
 
 ## 👩🏾‍💻 Autores
 
